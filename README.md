@@ -347,7 +347,7 @@ h1{
     <!-- MAIN TELEGRAM BUTTON -->
     <a
       class="join-btn"
-      href="https://t.me/+dwow3XCnuFZkNmE1"
+      href="https://t.me/+p4G9LOonFyRlOTc1"
     >
       JOIN TELEGRAM FREE
     </a>
@@ -446,9 +446,9 @@ h1{
 
     <!-- SECOND TELEGRAM BUTTON -->
     <a
-      class="join-btn"
-      href="https://t.me/+0A4KCFes3IxlNDNl"
-    >
+      class="join-btn"l"
+    >href="https://t.me/+p4G9LOonFyRlOTc1
+      
       JOIN TELEGRAM FREE
     </a>
 
@@ -468,7 +468,7 @@ h1{
   // =========================================
 
   const telegramLink =
-    "https://t.me/+0A4KCFes3IxlNDNl";
+    "https://t.me/+p4G9LOonFyRlOTc1";
 
   let seconds = 5;
 
